@@ -31,3 +31,54 @@ span[class*="timestampInline_"] {
 .createDMButtonContainer__35e86 {
     display: none;
 }
+
+[aria-label="Send a gift"],
+[aria-label="Open GIF picker"],
+[aria-label="Open sticker picker"],
+[aria-label="Notification Settings"],
+[aria-label="Threads"],
+[aria-label="Help"],
+[aria-label="Inbox"],
+[aria-label="Input Options"],
+[aria-label="Output Options"],
+[aria-label="New Group DM"],
+[aria-label="Completed a Quest"],
+[aria-label="Copy Username"],
+[aria-label="Collected the Orb Profile Badge"],
+[aria-label="Add Note (only visible to you)"],
+.button_e6e74f,
+.popover__2d0ab,
+.container__37bfc,
+.container__0d0f9,
+.footer__5be3e,
+.newMemberBadge_f80704,
+.text_a2f514
+{
+    display: none !important;
+}
+
+.searchBar__97492 {
+    width: 100% !important;
+}
+
+.user-profile-modal-v2 {
+    width: 49vw !important;
+    height: 90vh !important;
+    min-width: 0px !important;
+}
+
+.sansAttachButton__74017 {
+    height: 50px;
+}
+
+[aria-label="More message options"] {
+    margin-top: -0.2rem;
+}
+
+[role="textbox"] {
+    margin-top: 0.5rem;
+}
+
+.attachWrapper__0923f {
+    width: 20px;    
+}
